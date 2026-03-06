@@ -53,7 +53,7 @@ Major diagnoses included in the dataset:<br>
 🦠 Covid-19	5.32<br>
 🌬 Asthma	5.11<br>
 
-## 📌 Insight:
+### 📌 Insight:
 Asthma shows the lowest recovery rating, suggesting potential inefficiencies in treatment methods.
 
 # 💰 Cost vs Recovery Outcome
@@ -65,7 +65,7 @@ Diagnosis	Avg Cost<br>
 🌬 Asthma	9.8K<br>
 🩺 Diabetes	9.5K<br>
 
-## 📌 Key Finding:
+### 📌 Key Finding:
 Higher treatment cost does not always lead to better recovery outcomes.
 
 # ⚕ Treatment Distribution
@@ -75,22 +75,20 @@ Treatment Type	Patients<br>
 🧠 Therapy	347<br>
 🔬 Surgery	307<br>
 
-## 📌 Observation:
+### 📌 Observation:
 Medication and therapy are the most common treatments, while surgery is slightly less frequent.
 
 # 📅 Monthly Patient Trend
 
 📈 Patient volume fluctuates throughout the year.
 
-Peak months: ~90+ patients
-Lowest months: ~60 patients
+* Peak months: ~90+ patients
+* Lowest months: ~60 patients
 
 Possible reasons:
 
 * Seasonal illness patterns
-
 * Operational limitations
-
 * Data reporting gaps
 
 # 🔍 Key Insights
@@ -102,28 +100,25 @@ Possible reasons:
 ⭐ Patient volume decreases significantly towards the end of the year<br>
 
 # 🚀 Recommendations
-## 🏥 Clinical Improvements
+### 🏥 Clinical Improvements
 
-Improve asthma treatment protocols
+* Improve asthma treatment protocols
+* Enhance patient follow-up systems
+* Standardize treatment pathways
 
-Enhance patient follow-up systems
+### 💰 Cost Optimization
 
-Standardize treatment pathways
+* Investigate Covid-19 cost drivers
+* Optimize hospital resource allocation
 
-## 💰 Cost Optimization
+### 📊 Operational Strategy
 
-Investigate Covid-19 cost drivers
-
-Optimize hospital resource allocation
-
-## 📊 Operational Strategy
-
-Focus resources on chronic disease management
-
-Improve capacity planning for peak demand
+* Focus resources on chronic disease management
+* Improve capacity planning for peak demand
 
 # 🛠 Tools & Technologies
-Tool	Purpose
+Tool	Purpose<br>
+
 📊 Power BI	Dashboard Visualization<br>
 📑 Excel	Data Cleaning & Analysis<br>
 📈 Data Modeling	Insight Generation<br>
@@ -132,7 +127,7 @@ Tool	Purpose
 
 # 📈 Business Impact
 
-This project helps hospitals:
+This project helps hospitals:<br>
 
 ✔ Improve treatment efficiency<br>
 ✔ Reduce operational costs<br>
@@ -141,22 +136,19 @@ This project helps hospitals:
 
 # 👨‍💻 Author
 
-Shivam Thakur
-
-Aspiring Business Analyst | Data Analyst
+**Shivam Kumar Thakur**<br>
+Business Analyst<br>
+Email:<a href="shivamkthakur99@gmail.com">shivamkthakur99@gmail.com</a><br>
+Profile:<a href="www.linkedin.com/in/shivam-kumar-thakur-45b14a197">LinkedIn</a>
 
 # 📌 Skills:
 
-Data Analysis
+* Data Analysis
+* SQL
+* Excel
+* Business Analytics
+* Data Visualization
 
-SQL
-
-Excel
-
-Business Analytics
-
-Data Visualization
-
-⭐ If you found this project useful, please consider starring the repository ⭐
+⭐ If you found this project useful, please consider starring the repository ⭐ 
 
 
