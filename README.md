@@ -23,10 +23,10 @@ Metric	Value:<br>
 📉 Avg Cost per Patient	10.04K<br>
 ⭐ Avg Recovery Rating	5.44<br>
 👥 Total Patients	1000<br>
-🎂 Avg Patient Age	50.5<br>
+👥Avg Patient Age	50.5<br>
 👥 Patient Demographics<br>
-Age Group Distribution<br>
-Age Group	Patients	Percentage<br>
+⭐Age Group Distribution<br>
+⭐Age Group	Patients	Percentage<br>
 👨 Adult	500	50%<br>
 👴 Senior	378	37.8%<br>
 👶 Child	122	12.2%<br>
